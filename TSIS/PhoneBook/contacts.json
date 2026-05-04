@@ -1,0 +1,38 @@
+[
+  {
+    "username": "Alina",
+    "email": "alinaaksenova07@gmail.com",
+    "birthday": "2007-12-06",
+    "group": null,
+    "phones": [
+      {
+        "phone": "87052251014",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "username": "Gulnaz",
+    "email": "gulnaz2007@mail.ru",
+    "birthday": "2007-10-13",
+    "group": null,
+    "phones": [
+      {
+        "phone": "8777777777",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "username": "Ruslan",
+    "email": "ruslanchik322@gmail.com",
+    "birthday": "2007-06-14",
+    "group": null,
+    "phones": [
+      {
+        "phone": "87123456789",
+        "type": "home"
+      }
+    ]
+  }
+]
